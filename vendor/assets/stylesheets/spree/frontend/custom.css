@@ -1,0 +1,17 @@
+#spree-header{
+	background-color: #6E6E6E;  
+}
+
+#spree-header #header {
+	    background: rgba(34, 34, 34, 0.8);
+} 
+
+.btn-success {
+	background-color: red;
+	border: 1px solid gold;
+}
+
+.btn-success:hover {
+	background-color: gold;
+	border: 1px solid red;
+}
